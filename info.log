@@ -1,0 +1,183 @@
+{"message":{"departmentId":"181040"},"level":"info","timestamp":"2021-06-09T04:32:46.783Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:36:50.517Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:44:36.221Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:45:24.584Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:46:20.818Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:46:39.660Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:52:12.784Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:52:41.588Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:53:33.782Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:55:10.945Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:55:42.081Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T04:57:17.203Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:00:02.884Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:00:32.229Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:40:15.536Z"}
+{"level":"info","message":"response","timestamp":"2021-06-09T05:40:15.691Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:41:06.581Z"}
+{"level":"info","message":"response","timestamp":"2021-06-09T05:41:06.731Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:41:37.397Z"}
+{"level":"info","message":"response","timestamp":"2021-06-09T05:41:37.573Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:41:59.318Z"}
+{"message":"{\"id\":1,\"departmentId\":\"181040\",\"name\":\"CSE\",\"students\":[{\"id\":2,\"registerNumber\":\"714018104002\",\"name\":\"Kumar\",\"department_id\":1},{\"id\":4,\"registerNumber\":\"714018104028\",\"name\":\"Karthi\",\"department_id\":1}],\"subjects\":[{\"id\":1,\"department_id\":1,\"subjectCode\":\"CS8601\",\"subjectName\":\"Data Structures\"},{\"id\":2,\"department_id\":1,\"subjectCode\":\"CS8602\",\"subjectName\":\"Internet Programming\"},{\"id\":5,\"department_id\":1,\"subjectCode\":\"CS8603\",\"subjectName\":\"Programming With C\"}]}","level":"info","timestamp":"2021-06-09T05:41:59.489Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:42:43.256Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:42:57.758Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T05:43:18.094Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-06-09T05:43:18.269Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T09:58:34.850Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-06-09T09:58:35.340Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-06-09T09:58:35.344Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T09:58:56.635Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-06-09T09:58:56.763Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T09:59:22.196Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-06-09T09:59:22.329Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:01:14.882Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:01:15.082Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:01:32.057Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:01:32.178Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:02:06.849Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:02:06.978Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T10:02:24.059Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-06-09T10:02:24.192Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T10:05:55.497Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}],"students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}]},"level":"info","timestamp":"2021-06-09T10:05:55.655Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:06:02.931Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:06:03.068Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:07:33.941Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:07:34.048Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:09:11.764Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:09:11.886Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T10:10:48.676Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}],"students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}]},"level":"info","timestamp":"2021-06-09T10:10:48.834Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T10:14:00.641Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}],"students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}]},"level":"info","timestamp":"2021-06-09T10:14:00.792Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-06-09T10:14:38.303Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}],"students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}]},"level":"info","timestamp":"2021-06-09T10:14:38.511Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:14:54.524Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:14:54.625Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-09T10:46:31.926Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-09T10:46:32.726Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:19:17.969Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:20:21.775Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:20:40.081Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:21:03.821Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:22:24.756Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:22:59.384Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:26:16.341Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:27:05.897Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:30:43.135Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:31:01.254Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:31:01.409Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:31:39.246Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:31:39.391Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:32:02.157Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:32:02.362Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:34:20.163Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:35:00.185Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:35:18.860Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:35:19.022Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:35:52.075Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:35:52.217Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:36:08.404Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:36:08.551Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-06-10T03:36:21.021Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T03:36:21.159Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:47:13.063Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:56:33.231Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:57:05.766Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:57:28.382Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:57:52.547Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T03:58:15.054Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:00:24.960Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:02:17.403Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:02:40.529Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:14:26.323Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:15:54.425Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:18:16.057Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:20:45.260Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:21:00.283Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:21:29.746Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:23:38.322Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:24:08.875Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:24:24.272Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-06-10T04:24:24.277Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:25:17.841Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:25:44.719Z"}
+{"message":{"Message ":"Something Went Wrong"},"level":"info","timestamp":"2021-06-10T04:25:45.030Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:27:40.965Z"}
+{"message":{"Message ":"Something Went Wrong"},"level":"info","timestamp":"2021-06-10T04:27:41.211Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:27:58.322Z"}
+{"message":{"Message ":"Something Went Wrong"},"level":"info","timestamp":"2021-06-10T04:27:58.591Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:31:00.151Z"}
+{"message":{"Message ":"Something Went Wrong"},"level":"info","timestamp":"2021-06-10T04:31:00.306Z"}
+{"level":"info","message":"request","timestamp":"2021-06-10T04:31:17.943Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-10T04:31:18.110Z"}
+{"level":"info","message":"request","timestamp":"2021-06-11T04:41:28.527Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-06-11T04:41:29.980Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-07-20T08:52:40.580Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-07-20T08:52:45.772Z"}
+{"level":"info","message":"request","timestamp":"2021-07-20T11:40:49.253Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1},"level":"info","timestamp":"2021-07-20T11:40:50.576Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:28:24.640Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1},"level":"info","timestamp":"2021-07-21T10:28:25.313Z"}
+{"registerNumber":"714018104028","level":"info","message":"request","timestamp":"2021-07-21T10:29:01.032Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-07-21T10:29:01.197Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-21T10:32:05.586Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-21T10:32:28.175Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-21T10:32:28.274Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-21T10:32:58.509Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-21T10:32:58.604Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-21T10:33:24.999Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-21T10:33:25.109Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-21T10:33:56.697Z"}
+{"message":{"fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","student_id":4,"id":1},"level":"info","timestamp":"2021-07-21T10:33:56.940Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:36:39.157Z"}
+{"message":{"Message ":"Something Went Wrong"},"level":"info","timestamp":"2021-07-21T10:36:39.256Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:36:47.394Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-07-21T10:36:47.526Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:37:07.515Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"marks":[{"id":1,"student_id":4,"subject_id":1,"mark":92},{"id":4,"student_id":4,"subject_id":2,"mark":90},{"id":8,"student_id":4,"subject_id":5,"mark":90}]},"level":"info","timestamp":"2021-07-21T10:37:07.626Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:38:45.922Z"}
+{"message":{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1,"personaldetail":{"id":1,"student_id":4,"fathername":"ABC","mobilenumber":"1234567890","address":"XYZ"}},"level":"info","timestamp":"2021-07-21T10:38:46.034Z"}
+{"departmentId":"181040","level":"info","message":"request","timestamp":"2021-07-21T10:39:19.013Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-07-21T10:39:19.207Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:41:42.936Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:41:54.321Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:42:10.015Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:42:10.114Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:42:17.341Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:42:17.436Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:42:20.885Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:42:20.979Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:42:45.728Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:42:45.842Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:43:06.133Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:43:06.227Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:43:44.479Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:43:44.574Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:44:09.202Z"}
+{"message":{"Message ":"Depaartment Id  Not Found"},"level":"info","timestamp":"2021-07-21T10:44:09.375Z"}
+{"level":"info","message":"request","timestamp":"2021-07-21T10:44:30.689Z"}
+{"message":{"id":1,"departmentId":"181040","name":"CSE","students":[{"id":2,"registerNumber":"714018104002","name":"Kumar","department_id":1},{"id":4,"registerNumber":"714018104028","name":"Karthi","department_id":1}],"subjects":[{"id":1,"department_id":1,"subjectCode":"CS8601","subjectName":"Data Structures"},{"id":2,"department_id":1,"subjectCode":"CS8602","subjectName":"Internet Programming"},{"id":5,"department_id":1,"subjectCode":"CS8603","subjectName":"Programming With C"}]},"level":"info","timestamp":"2021-07-21T10:44:30.849Z"}
+{"registerNumber":"714016104001","subjectCode":"EC301","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:45:56.237Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:45:56.240Z"}
+{"registerNumber":"714016104001","subjectCode":"EC8301","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:46:01.855Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:46:01.859Z"}
+{"registerNumber":"714016104001","subjectCode":"EC88301","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:46:06.945Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:46:06.949Z"}
+{"registerNumber":"714016104001","subjectCode":"EC6301","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:46:13.340Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:46:13.345Z"}
+{"registerNumber":"714016104001","subjectCode":"EC6302","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:46:30.235Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:46:30.240Z"}
+{"registerNumber":"714018104028","subjectCode":"EC6302","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:46:39.679Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:46:39.682Z"}
+{"registerNumber":"714018104028","subjectCode":"EC6302","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:47:30.584Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:47:30.587Z"}
+{"registerNumber":"714018104001","subjectCode":"EC6302","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:48:56.520Z"}
+{"message":{"Message ":"Register Number Not Found"},"level":"info","timestamp":"2021-07-21T10:48:56.629Z"}
+{"registerNumber":"714016104001","subjectCode":"EC6302","mark":60,"level":"info","message":"request","timestamp":"2021-07-21T10:49:20.894Z"}
+{"message":{"mark":60,"id":9,"student_id":3,"subject_id":3},"level":"info","timestamp":"2021-07-21T10:49:21.145Z"}
+{"name":"Krish","registerNumber":"714016104023","level":"info","message":"request","timestamp":"2021-07-21T10:49:52.316Z"}
+{"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:49:52.319Z"}
+{"name":"Krish","registerNumber":"714016104023","level":"info","message":"request","timestamp":"2021-07-21T10:52:17.474Z"}
+{"message":{"name":"Krish","id":5,"registerNumber":"714016104023","department_id":3},"level":"info","timestamp":"2021-07-21T10:52:17.630Z"}
