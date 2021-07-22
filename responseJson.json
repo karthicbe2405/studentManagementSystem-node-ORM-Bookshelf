@@ -39,4 +39,17 @@
 {"Message ":"Register Number Not Found"} , 
 {"mark":60,"id":9,"student_id":3,"subject_id":3} , 
 {"Message":"Invalid Inputs"} , 
-{"name":"Krish","id":5,"registerNumber":"714016104023","department_id":3}
+{"name":"Krish","id":5,"registerNumber":"714016104023","department_id":3} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"Message":"Something Went Wrong"} , 
+{"fathername":"DEF","mobilenumber":"1234567890","address":"MNP","student_id":3,"id":11} , 
+{"fathername":"DEF","mobilenumber":"1234567890","address":"MNP","student_id":3,"id":12}

@@ -181,3 +181,29 @@
 {"message":{"Message":"Invalid Inputs"},"level":"info","timestamp":"2021-07-21T10:49:52.319Z"}
 {"name":"Krish","registerNumber":"714016104023","level":"info","message":"request","timestamp":"2021-07-21T10:52:17.474Z"}
 {"message":{"name":"Krish","id":5,"registerNumber":"714016104023","department_id":3},"level":"info","timestamp":"2021-07-21T10:52:17.630Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:51:59.161Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:52:00.948Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:52:34.725Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:52:35.037Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:58:20.250Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:58:20.511Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:58:32.092Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:58:32.214Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:59:18.380Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:59:18.505Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:59:23.212Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:59:23.363Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T10:59:38.155Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T10:59:38.284Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T11:00:04.980Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T11:00:05.130Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T11:00:21.330Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T11:00:21.514Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T11:00:58.622Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T11:00:58.770Z"}
+{"registerNumber":"714018104028","fathername":"ABC","mobilenumber":"1234567890","address":"XYZ","level":"info","message":"request","timestamp":"2021-07-22T11:01:35.919Z"}
+{"message":{"Message":"Something Went Wrong"},"level":"info","timestamp":"2021-07-22T11:01:36.058Z"}
+{"registerNumber":"714016104001","fathername":"DEF","mobilenumber":"1234567890","address":"MNP","level":"info","message":"request","timestamp":"2021-07-22T11:02:59.254Z"}
+{"message":{"fathername":"DEF","mobilenumber":"1234567890","address":"MNP","student_id":3,"id":11},"level":"info","timestamp":"2021-07-22T11:02:59.546Z"}
+{"registerNumber":"714016104001","fathername":"DEF","mobilenumber":"1234567890","address":"MNP","level":"info","message":"request","timestamp":"2021-07-22T11:06:29.552Z"}
+{"message":{"fathername":"DEF","mobilenumber":"1234567890","address":"MNP","student_id":3,"id":12},"level":"info","timestamp":"2021-07-22T11:06:29.784Z"}
